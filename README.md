@@ -1,4 +1,4 @@
-# Suicide-Analysis-in-India
+# Suicide Analysis in India
 Essentials of Data Analytics (CSE3506) J Component
 
 ## Steps to be followed:
